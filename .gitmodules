@@ -106,12 +106,6 @@
 	url = https://github.com/qt/qtfeedback.git
 	branch = master
 	status = ignore
-[submodule "qtdocgallery"]
-	depends = qtdeclarative
-	path = qtdocgallery
-	url = https://github.com/qt/qtdocgallery.git
-	branch = master
-	status = ignore
 [submodule "qtpim"]
 	depends = qtdeclarative
 	path = qtpim
