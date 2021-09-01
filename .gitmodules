@@ -136,8 +136,8 @@
 [submodule "qtimageformats"]
 	depends = qtbase
 	path = qtimageformats
-	url = https://github.com/qt/qtimageformats.git
-	branch = 5.15.1
+	url = https://github.com/o3de/qtimageformats.git
+	branch = 5.15.1-o3de
 	status = addon
 [submodule "qtgraphicaleffects"]
 	depends = qtdeclarative
