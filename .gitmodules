@@ -1,7 +1,7 @@
 [submodule "qtbase"]
 	path = qtbase
-	url = https://github.com/qt/qtbase.git
-	branch = 5.15.1
+	url = https://github.com/o3de/qtbase.git
+	branch = 5.15.1-o3de
 	status = essential
 [submodule "qtsvg"]
 	depends = qtbase
